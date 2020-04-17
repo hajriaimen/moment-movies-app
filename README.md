@@ -1,5 +1,5 @@
 1- Clone the project 
-2- npm install/ yarn add 
+2- npm install/ yarn  
 3- npm start /yarn start
 
 
