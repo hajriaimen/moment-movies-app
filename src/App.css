@@ -1,0 +1,18 @@
+@import url("https://www.w3schools.com/w3css/4/w3.css");
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Oswald", sans-serif;
+  color: #404040;
+  background-color: #f3e6dee7;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.page_container {
+  min-height: 75vh;
+  padding-top: 85px;
+  display: block;
+}

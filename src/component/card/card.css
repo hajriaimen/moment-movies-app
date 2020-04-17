@@ -1,0 +1,16 @@
+.card {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  margin: auto;
+  padding: 1%;
+}
+.card_title {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
